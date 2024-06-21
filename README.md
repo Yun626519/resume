@@ -6,4 +6,9 @@
 - 學歷:輔仁大學經濟系
 - **興趣:音樂/電腦**   
 <hr>
-[facebook]:https://www.facebook.com/SamuelYun26/
+
+[facebook](https://www.facebook.com/SamuelYun26)
+
+-貓
+
+![](https://i.imgur.com/zn8qwbx.jpeg)
